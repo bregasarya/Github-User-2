@@ -1,0 +1,22 @@
+<resources>
+    <string name="name_user">Nama</string>
+    <string name="username_view">Username</string>
+    <string name="repository">Repository</string>
+    <string name="repository_value">100</string>
+    <string name="location">Location</string>
+    <string name="location_value">Surabaya</string>
+    <string name="company">Company</string>
+    <string name="company_value">Google</string>
+    <string name="following">Following</string>
+    <string name="following_value">10</string>
+    <string name="tabs_following">Following</string>
+    <string name="list_following">List Following</string>
+    <string name="followers">Followers</string>
+    <string name="followers_value">10</string>
+    <string name="tabs_followers">Followers</string>
+    <string name="list_followers">List Followers</string>
+    <string name="search_hint">Type Username Github</string>
+    <string name="notfound">User tidak ditemukan!</string>
+</resources>
+
+
